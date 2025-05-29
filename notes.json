@@ -1,0 +1,53 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "E"
+    },
+    {
+      "id": 1,
+      "name": "GND"
+    },
+    {
+      "id": 2,
+      "name": "I"
+    },
+    {
+      "id": 3,
+      "name": "P"
+    },
+    {
+      "id": 4,
+      "name": "R"
+    },
+    {
+      "id": 5,
+      "name": "V"
+    },
+    {
+      "id": 6,
+      "name": "ident-i"
+    },
+    {
+      "id": 7,
+      "name": "ident-i-dir"
+    },
+    {
+      "id": 8,
+      "name": "ident-res"
+    },
+    {
+      "id": 9,
+      "name": "ident-v"
+    },
+    {
+      "id": 10,
+      "name": "ident-v-dir"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

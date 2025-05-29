@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+ - family-names: Knievel
+   given-names: Christopher
+   orcid: https://orcid.org/0000-0001-7685-5919
+ - family-names: Bernhardt
+   given-names: Alexander
+ - family-names: Bernhardt
+   given-names: Christian
+title: "AITEE Electrical Circuit Dataset"
+version: 1.0.0
+identifiers:
+   - type: other
+     value: "arXiv:2525.21582"
+     description: "arXiv preprint describing the AITEE system"
+date-released: 2025-03-15
+repository-code: "https://github.com/CKnievel/aitee-dataset"
+abstract: "This dataset contains 831 electrical circuit diagrams with YOLO-format annotations for training object detection models to identify components and connection points in electrical circuits. The circuits are based on first-semester electrical engineering coursework and include resistors, voltage sources, current sources, and various circuit topologies."
+keywords:
+  - "electrical circuits"
+  - "object detection"
+  - "YOLO"
+  - "educational dataset"
+  - "electrical engineering"
+license: MIT
