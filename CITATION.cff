@@ -12,7 +12,7 @@ title: "AITEE Electrical Circuit Dataset"
 version: 1.0.0
 identifiers:
    - type: other
-     value: "arXiv:2525.21582"
+     value: "arXiv:2505.21582"
      description: "arXiv preprint describing the AITEE system"
 date-released: 2025-03-15
 repository-code: "https://github.com/CKnievel/aitee-dataset"

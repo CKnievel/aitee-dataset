@@ -1,11 +1,11 @@
 # AITEE Electrical Circuit Dataset
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2525.21582-b31b1b.svg)](https://arxiv.org/abs/2525.21582)
+[![Paper](https://img.shields.io/badge/Paper-arXiv%3A2505.21582-b31b1b.svg)](https://arxiv.org/abs/2505.21582)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 This repository contains the electrical circuit dataset used for training and evaluating the object detection components of the **AITEE (Agentic Tutor for Electrical Engineering)** system, as presented in our paper:
 
-*Knievel, C., Bernhardt, A., & Bernhardt, C. (2025). AITEE - Agentic Tutor for Electrical Engineering. arXiv preprint arXiv:2525.21582.*
+*Knievel, C., Bernhardt, A., & Bernhardt, C. (2025). AITEE - Agentic Tutor for Electrical Engineering. arXiv preprint arXiv:2505.21582.*
 
 ## 📋 Table of Contents
 
@@ -28,7 +28,7 @@ If you use this dataset in your research, please cite our paper:
       title={AITEE - Agentic Tutor for Electrical Engineering},
       author={Christopher Knievel and Alexander Bernhardt and Christian Bernhardt},
       year={2025},
-      eprint={2525.21582},
+      eprint={2505.21582},
       archivePrefix={arXiv},
       primaryClass={cs.CY}
 }
@@ -213,4 +213,4 @@ This work was conducted as part of electrical engineering education research at 
 
 ### Related Work
 
-For more details about the AITEE system and its applications in electrical engineering education, please refer to our paper on arXiv: [AITEE - Agentic Tutor for Electrical Engineering](https://arxiv.org/abs/2525.21582)
+For more details about the AITEE system and its applications in electrical engineering education, please refer to our paper on arXiv: [AITEE - Agentic Tutor for Electrical Engineering](https://arxiv.org/abs/2505.21582)
