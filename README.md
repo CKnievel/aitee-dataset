@@ -1,7 +1,7 @@
 # AITEE Electrical Circuit Dataset
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%3A2505.21582-b31b1b.svg)](https://arxiv.org/abs/2505.21582)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 This repository contains the electrical circuit dataset used for training and evaluating the object detection components of the **AITEE (Agentic Tutor for Electrical Engineering)** system, as presented in our paper:
 
@@ -140,7 +140,7 @@ Additional metadata is available in `notes.json` with COCO-style class informati
 ```
 aitee-dataset/
 ├── README.md                  # This file
-├── LICENSE                    # MIT License
+├── LICENSE                    # Apache 2.0 License
 ├── CITATION.cff              # Citation metadata
 ├── classes.txt               # Class ID to name mapping
 ├── notes.json               # Additional dataset metadata
@@ -193,7 +193,7 @@ The dataset should be split into training, validation, and test sets according t
 
 ## 📄 License
 
-This dataset is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this dataset for academic and commercial purposes.
+This dataset is released under the [Apache 2.0 License](LICENSE). You are free to use, modify, and distribute this dataset for academic and commercial purposes.
 
 ## 📧 Contact
 
